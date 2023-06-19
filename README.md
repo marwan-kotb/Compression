@@ -43,10 +43,10 @@ The Python script is a command-line tool that uses the ffmpeg-python library to 
 1 - Install the required dependencies using pip:
 `pip install ffmpeg-python`
 
-2 - Open a terminal or command prompt and navigate to the directory where the compress.py file is located.
+2 - Open a terminal or command prompt and navigate to the directory where the video.py file is located.
 
 3 - Run the script, providing the path to the input video file and the path to the output compressed video file:
-`python compress.py input.mp4 output.mp4 --crf 28 --preset slow --tune film`
+`python video.py input.mp4 output.mp4 --crf 28 --preset slow --tune film`
 
 4 - The compressed video file will be saved to the specified output file path.
 
