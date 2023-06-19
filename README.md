@@ -4,7 +4,7 @@
 
 
 
-This project provides two scripts for compressing video files: one written in Laravel and one written in Python. Both scripts use the FFMpeg library to compress the input video file and save the compressed output to a new file.
+This task provides two scripts for compressing video files: one written in Laravel and one written in Python. Both scripts use the FFMpeg library to compress the input video file and save the compressed output to a new file.
 
 
 ## Requirements
